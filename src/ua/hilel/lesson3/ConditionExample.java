@@ -11,7 +11,7 @@ public class ConditionExample {
          if (a==b) {
              System.out.println("digits are same");
          } else {
-             System.out.println("");
+             System.out.println("ssh");
          };
          }
     }
