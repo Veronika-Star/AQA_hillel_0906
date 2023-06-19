@@ -10,7 +10,9 @@ public class ConditionExample {
         int b=6;
          if (a==b) {
              System.out.println("digits are same");
-         } else {};
+         } else {
+             System.out.println("");
+         };
          }
     }
 
