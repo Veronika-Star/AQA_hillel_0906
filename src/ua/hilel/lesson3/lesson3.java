@@ -10,6 +10,6 @@ public class lesson3  {
 
         int h= 15;
         int b=10;
-        System.out.println(max(b,h));
+        System.out.println(Math.max(h, b));
     }
 }

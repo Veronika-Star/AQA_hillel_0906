@@ -33,4 +33,7 @@ public class MyFirstClass {
         y += 7;//(y=y+7)
         System.out.println(y);
     }
+    public void sayAge(){
+        System.out.println("34");
+    }
 }
